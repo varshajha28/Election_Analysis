@@ -25,5 +25,20 @@ The analysis of the election show that:
 - The winner of the election was:
 	  - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
 ## Challenge Overview
-
+The challenge's objective was to complete the following task as a part of the election analysis:
+1. Get a complete list of counties where the votes were casted.
+3. Calculate the total number of votes casted for each county.
+4. Calculate the percentage of votes each county casted.
+5. Determine the county with the largest turn over.
 ## Challenge Summary 
+The analysis of the election show that:
+- The counties participating in the election were:
+	  - Jefferson
+	  - Denver
+	  - Arapahoe
+- The county votes results were:
+	  - Jefferson received "10.5%" of the vote and "38,855" number of votes.
+	  - Denver received "82.8%" of the vote and "306,055" number of votes.
+	  - Arapahoe received "6.7%" of the vote and "24,801" number of votes.
+- The county with the largest turnover in the election was:
+	  - Denver who received "82.8%" of the vote and "306,055" number of votes.
